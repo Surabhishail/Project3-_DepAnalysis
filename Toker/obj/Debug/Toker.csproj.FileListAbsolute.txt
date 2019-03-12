@@ -1,0 +1,20 @@
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csprojResolveAssemblyReference.cache
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe.config
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\bin\Debug\Toker.pdb
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.exe
+Y:\NotReleasedYet\Toker\Toker\obj\Debug\Toker.pdb
+C:\Fall 2018 Study\SMA\SMA_Prj3\Toker\bin\Debug\Toker.dll.config
+C:\Fall 2018 Study\SMA\SMA_Prj3\Toker\bin\Debug\Toker.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\Toker\bin\Debug\Toker.pdb
+C:\Fall 2018 Study\SMA\SMA_Prj3\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\Toker\obj\Debug\Toker.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\Toker\obj\Debug\Toker.pdb
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Toker\bin\Debug\Toker.dll.config
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Toker\bin\Debug\Toker.dll
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Toker\bin\Debug\Toker.pdb
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Toker\obj\Debug\Toker.csprojAssemblyReference.cache
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Toker\obj\Debug\Toker.csproj.CoreCompileInputs.cache
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Toker\obj\Debug\Toker.dll
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Toker\obj\Debug\Toker.pdb

@@ -1,0 +1,10 @@
+using B;
+using Alpha;
+namespace C
+class ITok
+{
+Toker t = new Toker();
+Semi s = new Semi();
+X x = new X();
+ProgressReporter p = x.InstanceProgress;
+}

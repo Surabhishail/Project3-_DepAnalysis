@@ -1,0 +1,7 @@
+C:\Fall 2018 Study\SMA\SMA_Prj3\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Fall 2018 Study\SMA\SMA_Prj3\TestHarness\bin\Debug\TestHarness.exe
+C:\Fall 2018 Study\SMA\SMA_Prj3\TestHarness\bin\Debug\TestHarness.pdb
+C:\Fall 2018 Study\SMA\SMA_Prj3\TestHarness\obj\Debug\TestHarness.csprojAssemblyReference.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\TestHarness\obj\Debug\TestHarness.exe
+C:\Fall 2018 Study\SMA\SMA_Prj3\TestHarness\obj\Debug\TestHarness.pdb

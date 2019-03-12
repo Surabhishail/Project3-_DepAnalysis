@@ -1,0 +1,11 @@
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\bin\Debug\TypeAnalysis.dll.config
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\bin\Debug\TypeAnalysis.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\bin\Debug\TypeAnalysis.pdb
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\bin\Debug\TypeTable.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\bin\Debug\TypeTable.pdb
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\bin\Debug\TypeTable.dll.config
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\obj\Debug\TypeAnalysis.csprojAssemblyReference.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\obj\Debug\TypeAnalysis.csproj.CoreCompileInputs.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\obj\Debug\TypeAnalysis.csproj.CopyComplete
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\obj\Debug\TypeAnalysis.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\TypeAnalysis\obj\Debug\TypeAnalysis.pdb

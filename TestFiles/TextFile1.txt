@@ -1,0 +1,5 @@
+namespace Alpha;
+class Toker{
+ toker value
+ struct Mystruct
+}

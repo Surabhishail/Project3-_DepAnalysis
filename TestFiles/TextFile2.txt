@@ -1,0 +1,6 @@
+namespace B;
+using Alpha;
+public class Semi{
+Alpha t = new Alpha();
+   enum MyEnnum
+}

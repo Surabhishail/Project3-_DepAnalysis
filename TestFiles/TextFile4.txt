@@ -1,0 +1,5 @@
+public delegate void ProgressReporter (int percentComplete);
+
+namespace Test;
+class Testing{
+}

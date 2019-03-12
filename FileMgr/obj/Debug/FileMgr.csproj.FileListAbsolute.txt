@@ -1,0 +1,6 @@
+C:\Fall 2018 Study\SMA\SMA_Prj3\FileMgr\bin\Debug\Navigate.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\FileMgr\bin\Debug\Navigate.pdb
+C:\Fall 2018 Study\SMA\SMA_Prj3\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\FileMgr\obj\Debug\Navigate.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\FileMgr\obj\Debug\Navigate.pdb

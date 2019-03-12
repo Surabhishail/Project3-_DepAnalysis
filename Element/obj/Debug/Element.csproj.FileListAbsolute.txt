@@ -1,0 +1,11 @@
+C:\Fall 2018 Study\SMA\SMA_Prj3\Element\bin\Debug\Element.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\Element\bin\Debug\Element.pdb
+C:\Fall 2018 Study\SMA\SMA_Prj3\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Fall 2018 Study\SMA\SMA_Prj3\Element\obj\Debug\Element.dll
+C:\Fall 2018 Study\SMA\SMA_Prj3\Element\obj\Debug\Element.pdb
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Element\bin\Debug\Element.dll
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Element\bin\Debug\Element.pdb
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Element\obj\Debug\Element.csprojAssemblyReference.cache
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Element\obj\Debug\Element.dll
+C:\Fall 2018 Study\SMA\Project3#_DepAnalysis\Element\obj\Debug\Element.pdb
